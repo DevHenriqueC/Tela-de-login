@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(228, 228, 228, 0.747);
+}
+.centralizar{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tela{
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px rgb(151, 151, 151);
+}
+.tela img{
+    height: 30px;
+    width: 30;
+    padding-left: 140px;
+    padding-top: 30px;
+}
+.inputscenter{
+    padding-top:40px;
+    padding-left: 65px;
+
+}
+.inputscenter input{
+    border-radius: 5px;
+
+}
+.butao{
+    padding-top:20px;
+    padding-left: 38%;
+}
+.cadastrar{
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+}
